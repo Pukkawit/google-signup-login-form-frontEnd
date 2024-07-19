@@ -1,4 +1,4 @@
-# Sigunp/Login Form - Frontend
+# Signup/Login Form - Frontend
 Welcome to the Signup/Login Form project! This README file provides an overview of the project, including its features, setup instructions, and usage guidelines. The project is built using <code> HTML, CSS, and JavaScript</code>, and was developed using Visual Studio Code (VS Code) as the Integrated Development Environment (IDE).
 
 ## Features
