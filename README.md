@@ -1,5 +1,5 @@
 # Signp/Login Form - Frontend
-Welcome to the Signup/Login Form project! This README file provides an overview of the project, including its features, setup instructions, and usage guidelines. The project is built using <pre> HTML, CSS, and JavaScript</pre>, and was developed using Visual Studio Code (VS Code) as the Integrated Development Environment (IDE).
+Welcome to the Signup/Login Form project! This README file provides an overview of the project, including its features, setup instructions, and usage guidelines. The project is built using <code> HTML, CSS, and JavaScript</code>. and was developed using Visual Studio Code (VS Code) as the Integrated Development Environment (IDE).
 
 ## Features
 <strong>Password Validation</strong>: Ensures that the password meets specific criteria (e.g., minimum length, special characters).
