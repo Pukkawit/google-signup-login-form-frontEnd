@@ -33,10 +33,11 @@ Open Visual Studio Code (VS Code) and load the project directory.
 Open the <code>index.html</code> file in your browser to see the sign-up form in action.
 
 ## Usage
-<strong>Sign Up</strong>: Fill in the required fields, including the password and confirm password fields. The form will validate the passwords to ensure they match and meet the required criteria.
-<strong>Login</strong>: If you already have an account, click the "Login" option to navigate to the login page (the login functionality is not implemented in this frontend-only project).
-<strong>Upload Picture</strong>: Click the edit button to upload a profile picture from your device. The picture will be displayed correctly within the form.
-
+<ul>
+  <li><strong>Sign Up</strong>: Fill in the required fields, including the password and confirm password fields. The form will validate the passwords to ensure they match and meet the required criteria.</li>
+  <li><strong>Login</strong>: If you already have an account, click the "Login" option to navigate to the login page (the login functionality is not implemented in this frontend-only project).</li>
+  <li><strong>Upload Picture</strong>: Click the edit button to upload a profile picture from your device. The picture will be displayed correctly within the form.</li>
+</ul>
 ## Contributing
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
 
