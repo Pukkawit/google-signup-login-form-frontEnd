@@ -18,9 +18,11 @@ Welcome to the Signup/Login Form project! This README file provides an overview 
 ## Setup Instructions
 Follow these steps to set up and run the project on your local machine:
 
+
+
 ### Clone the Repository:
 Open your terminal and run the following command to clone the repository:
-<pre>git clone https://github.com/your-username/signup-form.git](https://github.com/Pukkawit/google-signup-login-form-frontEnd.git</pre>
+<pre>git clone https://github.com/Pukkawit/google-signup-login-form-frontEnd.git</pre>
 
 ### Navigate to the Project Directory:
 <strong>Change to the project directory:</strong>
