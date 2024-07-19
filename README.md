@@ -30,7 +30,7 @@ Open your terminal and run the following command to clone the repository:
 Open Visual Studio Code (VS Code) and load the project directory.
 
 ### Run the Project:
-Open the <pre>index.html</pre> file in your browser to see the sign-up form in action.
+Open the <code>index.html</code> file in your browser to see the sign-up form in action.
 
 ## Usage
 <strong>Sign Up</strong>: Fill in the required fields, including the password and confirm password fields. The form will validate the passwords to ensure they match and meet the required criteria.
