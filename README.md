@@ -8,10 +8,12 @@ Welcome to the Signup/Login Form project! This README file provides an overview 
 <strong>Picture Upload</strong>: Allows users to upload a profile picture. When the edit button is clicked, it triggers the upload function, and the uploaded picture is displayed correctly within the form.
 
 ## Technologies Used
-<strong>HTML</strong>: The structure of the web page.
-<strong>CSS</strong>: Styling the web page to make it visually appealing.
-<strong>JavaScript</strong>: Adding interactivity and functionality to the web page.
-<strong>VS Code</strong>: The IDE used for coding this project.
+<ol>
+  <li><strong>HTML</strong>: The structure of the web page.</li>
+  <li><strong>CSS</strong>: Styling the web page to make it visually appealing.</li>
+  <li><strong>JavaScript</strong>: Adding interactivity and functionality to the web page.</li>
+  <li><strong>VS Code</strong>: The IDE used for coding this project.</li>
+</ol>
 
 ## Setup Instructions
 Follow these steps to set up and run the project on your local machine:
