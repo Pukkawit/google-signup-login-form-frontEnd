@@ -38,10 +38,11 @@ Open the <code>index.html</code> file in your browser to see the sign-up form in
   <li><strong>Login</strong>: If you already have an account, click the "Login" option to navigate to the login page (the login functionality is not implemented in this frontend-only project).</li>
   <li><strong>Upload Picture</strong>: Click the edit button to upload a profile picture from your device. The picture will be displayed correctly within the form.</li>
 </ul>
+
 ## Contributing
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
 
-## Fork the repository.
+### Fork the repository.
 <ol>
 <li>Create a new branch (git checkout -b feature-branch).</li>
 <li>Make your changes and commit them (git commit -m 'Add new feature').</li>
@@ -52,11 +53,11 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
-Contact
+## Contact
 If you have any questions or suggestions, feel free to reach out:
 
-Email: pukkawit.jobs@gmail.com
-GitHub: Pukkawit
+<b>Email:</b> pukkawit.jobs@gmail.com
+<b>GitHub:</b> Pukkawit
 
-Thank you for checking out the Sign Up Form project! We hope you find it useful and easy to integrate into your applications.
+<emphasis><strong>Thank you for checking out the Sign Up Form project! We hope you find it useful and easy to integrate into your applications.</strong></emphasis>
 
