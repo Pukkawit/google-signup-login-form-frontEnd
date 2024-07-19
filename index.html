@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Google Login Page</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="phone-screen">
+      <div class="notification-bar">
+        <p class="time">9:14</p>
+        <div class="network-battery-wifi">
+          <img src="./icons/network-bars-5.svg" alt="" srcset="" />
+          <img src="./icons/wifi.svg" alt="" srcset="" />
+          <img src="./icons/battery-full.svg" />
+        </div>
+      </div>
+      <div class="profile-photo">
+        <div class="outer-circle">
+          <div class="inner-circle">
+            <img
+              class="profile-pics"
+              src="./icons/clarity--avatar-line.svg"
+              alt="profile-avatar"
+            />
+          </div>
+          <img class="edit-photo" src="./icons/edit-tabler--edit.svg" alt="" />
+          <input type="file" name="" id="profile-pics-input" />
+        </div>
+      </div>
+      <div class="instruction">
+        <h1>Sign In to your account</h1>
+        <p>Enter your details to sign in</p>
+      </div>
+      <a
+        href="https://myaccount.google.com/"
+        class="btn google-btn"
+        target="_blank"
+      >
+        <img src="./icons/flat-color-icons--google.svg" alt="" />
+        <span>Google</span>
+      </a>
+      <a
+        href="https://twitter.com/login"
+        class="btn twitter-btn"
+        target="_blank"
+      >
+        <img src="./icons/prime--twitter.svg" alt="" />
+        <span>Twitter</span>
+      </a>
+      <div class="or-section">
+        <span></span>
+        <p>OR</p>
+        <span></span>
+      </div>
+      <form>
+        <div class="input-group">
+          <input type="text" placeholder="Username or email" />
+          <input type="password" placeholder="Password" class="password" />
+          <div onclick="hideShow()" class="slash-eye close">
+            <img src="./icons/charm--eye-slash.svg" alt="" />
+          </div>
+          <div onclick="hideShow()" class="slash-eye open">
+            <img src="./icons/mdi--eye-outline.svg" alt="" />
+          </div>
+        </div>
+        <div class="keep-logged-in">
+          <div class="keep-me-box-text">
+            <input type="checkbox" name="" id="" />
+            <p>Keep me logged in</p>
+          </div>
+          <div class="forgot-pwd">
+            <a href="">Forgot password?</a>
+          </div>
+        </div>
+        <button type="submit" class="sign-btn btn">Sign In</button>
+      </form>
+      <div class="signUp-option">
+        <p>Don't you have account?</p>
+        <a href="./pwrd-validation-form/form-page.html">Sign Up</a>
+      </div>
+      <div class="bottom-line"></div>
+    </div>
+    <footer>
+      <p>
+        Copyright @Witty Umosung 2024 -
+        <script>
+          document.write(new Date().getFullYear());
+        </script>
+      </p>
+    </footer>
+    <script src="./script.js"></script>
+  </body>
+</html>
